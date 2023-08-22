@@ -1,3 +1,8 @@
+[DEMO PAGE](https://maryanmats.github.io/react-typescript-empty-project/)
+
+[PHOTO TEST](./src/video/photoTEST.jpg)
+[VIDEO TEST](./src/video/videTEST.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
