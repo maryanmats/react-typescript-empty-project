@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-typescript-empty-project/static/css/main.76cf170d.chunk.css",
+    "main.js": "/react-typescript-empty-project/static/js/main.21341b11.chunk.js",
+    "main.js.map": "/react-typescript-empty-project/static/js/main.21341b11.chunk.js.map",
+    "runtime-main.js": "/react-typescript-empty-project/static/js/runtime-main.f7dc8200.js",
+    "runtime-main.js.map": "/react-typescript-empty-project/static/js/runtime-main.f7dc8200.js.map",
+    "static/js/2.7328ffcf.chunk.js": "/react-typescript-empty-project/static/js/2.7328ffcf.chunk.js",
+    "static/js/2.7328ffcf.chunk.js.map": "/react-typescript-empty-project/static/js/2.7328ffcf.chunk.js.map",
+    "index.html": "/react-typescript-empty-project/index.html",
+    "precache-manifest.6cf88b8143a647c744172a22142ec68c.js": "/react-typescript-empty-project/precache-manifest.6cf88b8143a647c744172a22142ec68c.js",
+    "service-worker.js": "/react-typescript-empty-project/service-worker.js",
+    "static/css/main.76cf170d.chunk.css.map": "/react-typescript-empty-project/static/css/main.76cf170d.chunk.css.map",
+    "static/js/2.7328ffcf.chunk.js.LICENSE.txt": "/react-typescript-empty-project/static/js/2.7328ffcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7dc8200.js",
+    "static/js/2.7328ffcf.chunk.js",
+    "static/css/main.76cf170d.chunk.css",
+    "static/js/main.21341b11.chunk.js"
+  ]
+}
